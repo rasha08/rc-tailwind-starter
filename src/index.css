@@ -5,3 +5,12 @@
 html * {
   font-family: "openDyslexic", sans-serif;
 }
+
+body {
+  background: white;
+}
+
+#root {
+  background-image: url("assets/common/bg.png");
+  background-size: cover;
+}

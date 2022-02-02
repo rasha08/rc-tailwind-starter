@@ -1,0 +1,17 @@
+{
+  "home": {
+    "welcome": "Welcome to YUNO v2"
+  },
+  "form": {
+    "username": {
+      "label": "Username",
+      "length": "Username must be longer then {{min}}.",
+      "required": "Username is required."
+    },
+    "password": {
+      "label": "Password",
+      "length": "Password must be longer then {{min}}.",
+      "required": "Password is required."
+    }
+  }
+}

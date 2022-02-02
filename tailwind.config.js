@@ -62,6 +62,15 @@ module.exports = {
       },
       height: {
         120: "46.25rem",
+        app: "calc(100vh - 8rem)",
+      },
+      minWidth: {
+        lg: "75vw",
+        md: "50vw",
+      },
+      maxWidth: {
+        lg: "720px",
+        md: "420px",
       },
     },
     colors,
@@ -80,8 +89,8 @@ module.exports = {
       "2xl": ["2.25rem", { lineHeight: "auto" }],
     },
   },
-  plugins: [],
   variants: {
     extend: {},
   },
+  plugin: [],
 };

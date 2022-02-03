@@ -13,5 +13,11 @@
       "length": "Password must be longer then {{min}}.",
       "required": "Password is required."
     }
+  },
+  "register": {
+    "personalInfo": "My Account",
+    "confirmEmail": "Confirm Email",
+    "learners": "Add Learners",
+    "payments": "Purchase"
   }
 }

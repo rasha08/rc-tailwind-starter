@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { useTranslation } from "react-i18next";
-import { useForm, Controller } from "react-hook-form";
+import { useForm, Controller , ControllerFieldState} from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { loginValidationSchema } from "../validation/loginValidationSchema";
 import { AuthPrimaryActionButtonStyled } from "../styled/auth.styled";

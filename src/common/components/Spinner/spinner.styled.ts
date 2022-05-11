@@ -8,6 +8,7 @@ export const SpinnerWrapperStyled = styled.div<{ fullscreen?: boolean }>(
       bottom: 0;
       left: 0;
       backdrop-filter: blur(0.2rem);
+      color: red;
     `,
   ]
 );

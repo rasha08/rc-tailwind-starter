@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import tw, { styled } from "twin.macro";
+import tw, { styled,css } from "twin.macro";
 import { SpinnerWrapperStyled } from "./spinner.styled";
 
 type SpinnerProps = {
